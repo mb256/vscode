@@ -1,6 +1,6 @@
 # mtbradley/vscode
 
-###Visual Studio Code related information<br/>Including personal preferences, settings and guides
+### Visual Studio Code related information<br/>Including personal preferences, settings and guides
 
 **Contents**
 

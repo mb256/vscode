@@ -1,10 +1,10 @@
 # mtbradley/vscode
 
-###Visual Studio Code related information<br>Including personal preferences, settings and guides
+###Visual Studio Code related information<br/>Including personal preferences, settings and guides
 
 **Contents**
 
-- Wallpapers (Updated 22 August 2020)<br>Custom designed keyboard shortcut wallpapers for macOS and Windows available 1080, 4k and 8k resolution.
+- Wallpapers (Updated 22 August 2020)<br/>Custom designed keyboard shortcut wallpapers for macOS and Windows available 1080, 4k and 8k resolution.
 
 
 
